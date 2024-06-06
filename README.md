@@ -22,7 +22,7 @@ Preferred flutter version: `stable, 3.3.0`
 
 ### Getting started
 
-1. Download prebuild TbLib for your platform from [page](https://github.com/ivk1800/td-json-client-prebuilt/releases)
+1. Download prebuild TbLib for your platform from [page](https://github.com/ivk1800/td-json-client-prebuilt/releases)9
 2. Place binaries to `tdlib` to the repo folder:
 
 For Android:
